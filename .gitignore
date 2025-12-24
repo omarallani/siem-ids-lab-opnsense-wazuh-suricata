@@ -1,0 +1,18 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# VM / large artifacts (do not push)
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.vhd
+*.qcow2
+*.iso
+
+# logs / dumps
+*.log
+*.pcap
+*.evtx
